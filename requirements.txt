@@ -1,0 +1,8 @@
+# Tested with Python 3.14.3 on Windows 11 (any Python >= 3.10 should work)
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
+streamlit>=1.40
+pytest>=8.0

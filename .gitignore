@@ -1,0 +1,8 @@
+# raw dataset (1.9 GB, CC-BY-4.0, download with scripts/download_data.py) incl. held-out validation runs
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.claude/settings.local.json
+outputs/_*
